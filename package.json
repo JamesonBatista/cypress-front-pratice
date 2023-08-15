@@ -1,0 +1,24 @@
+{
+  "name": "cypress-front-pratice",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao Projeto de Teste Front-End usando Cypress! Este projeto apresenta um formulário de registro juntamente com elementos interativos adicionais para praticar cenários de teste usando o Cypress. Se você está começando com testes ou deseja explorar cenários de teste com o Cypress, este repositório fornece um ambiente prático para aprimorar suas habilidades de teste.",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesonBatista/cypress-front-pratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesonBatista/cypress-front-pratice/issues"
+  },
+  "homepage": "https://github.com/JamesonBatista/cypress-front-pratice#readme"
+}
